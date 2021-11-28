@@ -7,3 +7,5 @@ Using the POM for this Repo
 Lets add the Screenshot
 
 Stable Copy SIT
+
+Adding the new Features and creating the separate branches
